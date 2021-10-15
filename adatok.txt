@@ -1,0 +1,15 @@
+total 23
+drwxr-xr-x 1 Marci 197121   0 okt.   15 14:23 ./
+drwxr-xr-x 1 Marci 197121   0 okt.   15 10:53 ../
+drwxr-xr-x 1 Marci 197121   0 okt.   15 13:11 .git/
+-rw-r--r-- 1 Marci 197121 143 okt.   15 10:55 about.html
+-rw-r--r-- 1 Marci 197121   0 okt.   15 14:23 adatok.txt
+-rw-r--r-- 1 Marci 197121  25 okt.   15 13:56 barack.txt
+drwxr-xr-x 1 Marci 197121   0 okt.   15 13:10 css/
+drwxr-xr-x 1 Marci 197121   0 okt.   15 10:57 images/
+-rw-r--r-- 1 Marci 197121 143 okt.   15 10:53 index.html
+-rw-r--r-- 1 Marci 197121  25 okt.   15 13:55 körte.txt
+-rw-r--r-- 1 Marci 197121 233 okt.   15 10:53 README.md
+-rw-r--r-- 1 Marci 197121  27 okt.   15 14:00 számok.txt
+-rw-r--r-- 1 Marci 197121 145 okt.   15 10:53 tasks.txt
+drwxr-xr-x 1 Marci 197121   0 okt.   15 10:55 temp_images/
